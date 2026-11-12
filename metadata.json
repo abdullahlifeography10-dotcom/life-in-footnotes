@@ -1,0 +1,6 @@
+{
+  "name": "Life in Footnotes",
+  "description": "Life in Footnotes — An editorial photography portfolio, travel journal, and personal diary by Abdullah from Rajshahi, Bangladesh. Photography. Places. Personal Stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
